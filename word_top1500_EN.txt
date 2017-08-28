@@ -3,9 +3,9 @@ admin
 test
 guest
 info
-adm
 mysql
 user
 administrator
 oracle
 ftp
+adm
