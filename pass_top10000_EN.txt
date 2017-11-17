@@ -1,9 +1,8 @@
 password
-123456
-12345678
-1234
+root
+admin
+redis
 qwerty
-12345
 dragon
 pussy
 baseball
@@ -22,7 +21,6 @@ jennifer
 jordan
 superman
 harley
-1234567
 fuckme
 hunter
 fuckyou
@@ -51,7 +49,6 @@ asshole
 pepper
 daniel
 access
-123456789
 654321
 joshua
 maggie
@@ -6777,7 +6774,6 @@ junior1
 marsh
 masamune
 rice
-root
 1214
 april1
 allgood
